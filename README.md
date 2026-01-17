@@ -39,7 +39,7 @@ The app fetches movies from the TMDB API and allows users to manage favourites a
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/kishanagarwal18/movie_app_assignment.git
 cd movie_app_assignment
 ```
 
